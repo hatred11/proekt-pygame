@@ -1,0 +1,6 @@
+3 - 1, level: EASY 
+5 - 0, level: HARD 
+2 - 3, level: EASY 
+3 - 0, level: EASY 
+3 - 0, level: EASY 
+3 - 2, level: EASY 
